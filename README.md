@@ -17,7 +17,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 
 Para instalar OmegaT mediante chocolateu ([info](https://community.chocolatey.org/packages/omegat)), ejecutamos el siguiente comando: 
 ```
-https://community.chocolatey.org/packages/omegat
+choco install omegat --pre
 ```
 
 En Linux, se puede instalar OmegaT con el gestor de paquetes correspondiente (dependiendo de la distribución, `apt`, `pacman`, etc.))
