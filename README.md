@@ -10,6 +10,7 @@ OmegaT para traductores: rendimiento sin dispendio
 * Descarga de https://omegat.org/
 * Línea de comandos 
   * en Windows (chocolatey en PowerShell)
+    * Instalar `chocolatey` en PowerShell [+ info](https://jcutrer.com/windows/install-chocolatey-choco-windows10): `Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
   * en Linux (apt, pacman)
 
 
