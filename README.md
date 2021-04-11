@@ -7,12 +7,20 @@ OmegaT para traductores: rendimiento sin dispendio
 
 # Instalación
 
-* Descarga de https://omegat.org/
-* Línea de comandos 
-  * en Windows (chocolatey en PowerShell)
-    * Instalar `chocolatey` en PowerShell [+ info](https://jcutrer.com/windows/install-chocolatey-choco-windows10): `Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
-  * en Linux (apt, pacman)
+OmegaT se puede instalar de varias maneras. Por ejemplo, descargando el instalable de https://omegat.org/.
 
+También es posible instalarlo en PowerShell (en Windows 10) con el gestor de paquetes "chocolatey". Para instalar chocolatey [(info)](https://jcutrer.com/windows/install-chocolatey-choco-windows10), lanzamos PowerShell como administrador y ejecutamos el siguiente comando: 
+
+```
+Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+```
+
+Para instalar OmegaT mediante chocolateu ([info](https://community.chocolatey.org/packages/omegat)), ejecutamos el siguiente comando: 
+```
+https://community.chocolatey.org/packages/omegat
+```
+
+En Linux, se puede instalar OmegaT con el gestor de paquetes correspondiente (dependiendo de la distribución, `apt`, `pacman`, etc.))
 
 
 # 1. Tareas lingüísticas
