@@ -1,8 +1,8 @@
 # Introducción
 
-## ¿Qué es OmegaT? 
+## ¿Qué es OmegaT?
 
-OmegaT es una herramienta de traducción asistida por ordenador. 
+OmegaT es una herramienta de traducción asistida por ordenador.
 
 Modelo de desarrollo
 
@@ -17,9 +17,8 @@ Modelo de negocio
   * Redes sociales
   * Soporte y comunidad
 
+
 * [OmegaT en SourceForge](https://sourceforge.net/projects/omegat/)
-  * Wiki
+  * Wiki >
   * Wiki > Scripts
   * Wiki > Plugins
-
-
