@@ -27,7 +27,7 @@ Versión "estándar" y versión "más reciente". >>>
 
 Por razones históricas y de modelo de desarrollo, la instalación de OmegaT tiene opciones predefinidas que no siempre son las más convenientes. Sin embargo, cada usuario puede personalizarla según sus preferencias.
 
-Para agilizar esa operación, he preparado un paquete con los ficheros de configuración de usuario con las preferencias que yo recomiendo. Para utilizarlos, debes ir a [https://github.com/msoutopico/omegat-asetrad](https://github.com/msoutopico/omegat-asetrad) > [02_instalacion](https://github.com/msoutopico/omegat-asetrad/tree/main/02_optimizacion), y descargar el fichero [`user_config.zip`](https://github.com/msoutopico/omegat-asetrad/raw/main/02_optimizacion/user_config.zip).
+Para agilizar esa operación, he preparado un paquete con los ficheros de configuración de usuario con las preferencias que yo recomiendo. Para utilizarlos, debes ir a [https://github.com/msoutopico/omegat-asetrad](https://github.com/msoutopico/omegat-asetrad) > [02_instalacion](https://github.com/msoutopico/omegat-asetrad/tree/main/02_instalacion), y descargar el fichero [`user_config.zip`](https://github.com/msoutopico/omegat-asetrad/raw/main/02_instalacion/user_config.zip).
 
 Acto seguido, deberás descomprimir los contenidos de ese fichero en la carpeta de configuración de usuario de OmegaT. Puedes llegar a ella de dos maneras:
 
