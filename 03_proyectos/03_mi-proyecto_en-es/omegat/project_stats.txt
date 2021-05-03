@@ -1,0 +1,16 @@
+4/05/21 1:43
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	      380	    2798	                    15245	                    17516	        3	
+Pendientes:       	      379	    2791	                    15209	                    17474	        3	
+Únicos:           	      346	    2719	                    14809	                    17026	        3	
+Pendientes únicos:	      345	    2712	                    14773	                    16984	        3	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo   	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+exercises-181012.odt	               350	                 350	             318	                        318	          2481	               2481	           2410	                      2410	                          13738	                               13738	                           13336	                                      13336	                          15716	                               15716	                           15266	                                      15266	
+Lock settings.docx  	                23	                  22	              22	                         21	           268	                261	            266	                       259	                           1290	                                1254	                            1278	                                       1242	                           1541	                                1499	                            1528	                                       1486	
+unesco.md           	                 7	                   7	               6	                          6	            49	                 49	             43	                        43	                            217	                                 217	                             195	                                        195	                            259	                                 259	                             232	                                        232	

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="es"/>
+  <body>
+	  <tu>
+        <tuv lang="es">
+          <seg>Si te interesa más otra coincidencia, puedes seleccionarla con &lt;g1&gt;Ctrl + Núm&lt;/g1&gt;, donde Núm es el número de coincidencia (por ej. &lt;g2&gt;Ctrl + 1&lt;/g2&gt;, &lt;g3&gt;Ctrl + 2&lt;/g3&gt;, etc.) o simplemente haciendo doble clic en ella.</seg>
+        </tuv>
+        <tuv lang="en" changeid="souto" changedate="20210502T121016Z" creationid="souto" creationdate="20210502T121016Z">
+          <seg>I am not a bad translation, but my mate below is better, I admit.</seg>
+        </tuv>
+      </tu>
+      <tu>
+        <tuv lang="es">
+          <seg>Si te interesa más otra coincidencia, puedes seleccionarla con &lt;g1&gt;Ctrl + Núm&lt;/g1&gt;, donde Núm es el número de coincidencia (por ej. &lt;g2&gt;Ctrl + 1&lt;/g2&gt;, &lt;g3&gt;Ctrl + 2&lt;/g3&gt;, etc.); o simplemente haciendo doble clic en ella.</seg>
+        </tuv>
+        <tuv lang="en" changeid="souto" changedate="20210502T120952Z" creationid="souto" creationdate="20210502T120940Z">
+          <seg>I am a good translation, press Ctrl+2 to pick me!</seg>
+        </tuv>
+      </tu>
+	  <tu>
+        <tuv lang="es">
+          <seg>Si te olvidas de estos atajos, puedes hacer clic derecho en la coincidencia y elegir la acción que quieras ejecutar.</seg>
+        </tuv>
+        <tuv lang="en" changeid="souto" changedate="20210502T120952Z" creationid="souto" creationdate="20210502T120940Z">
+          <seg>If you forget shortcuts, you may right click me and pick the action you want to execute.</seg>
+        </tuv>
+      </tu>
+
+
+  </body>
+</tmx>

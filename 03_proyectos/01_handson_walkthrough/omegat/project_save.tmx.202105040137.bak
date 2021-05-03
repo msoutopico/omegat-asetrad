@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="es"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="es">
+        <seg>= Entrega =</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20210502T202047Z" creationid="souto" creationdate="20210502T202047Z">
+        <seg>= Delivery = </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Antes de proceder a la entrega, no olvides comprobar que la traducción del proyecto está completa: recuerda que las estadísticas deben decir que quedan cero segmentos pendientes.</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20210502T202350Z" creationid="souto" creationdate="20210502T202338Z">
+        <seg>Before proceeding with the delivery, do not forget to check that the translation of the project is complete: remember that the statistics must say that there are zero pending segments. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Aunque ya hayas ido generando los documentos traducidos de uno en uno, es una buena idea hacer generarlos todos otra vez antes de una entrega, para asegurarte de que vas a entregar la última versión de cada fichero.</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20210502T201940Z" creationid="souto" creationdate="20210502T201940Z">
+        <seg>Even if you have already generated the translated documents one by one, it is a good idea to have them all generated again before a delivery, to make sure that you are going to deliver the latest version of each file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Dependiendo de lo que el cliente espere de ti, hay dos posibilidades para la entrega: generar los documentos traducidos y entregarlos sin el proyecto, o empaquetar y entrega el proyecto entero (si el cliente te ha enviado un proyecto empaquetado).</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20210502T201850Z" creationid="souto" creationdate="20210502T201850Z">
+        <seg>It depends on what the client expects from you, there are two possibilities for delivery: generate translated documents and deliver them without the project, or package and deliver the entire project (if the client has sent you a packaged project). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>En el primer caso, ya no hace falta que generes cada fichero de forma independiente como vimos en el tema 06.</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20210502T201909Z" creationid="souto" creationdate="20210502T201909Z">
+        <seg>In the first case, you no longer need to generate each file independently as we saw in topic 06.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>En el segundo caso (para empaquetar el proyecto y entregar el paquete), ve a &lt;g1&gt;Proyecto&lt;/g1&gt; y selecciona &lt;g2&gt;Pack project as OMT file&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20210502T202040Z" creationid="souto" creationdate="20210502T202040Z">
+        <seg>In the second case (to package the project and deliver the package), go to &lt;g1&gt;Project&lt;/g1&gt; and select &lt;g2&gt;Pack project as OMT file&lt;/g2&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>En vez de eso, en el menú &lt;g1&gt;Proyecto&lt;/g1&gt;, selecciona &lt;g2&gt;Crear documentos traducidos&lt;/g2&gt; para generar la versión traducida de todos los ficheros en el proyecto.</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20210502T201932Z" creationid="souto" creationdate="20210502T201932Z">
+        <seg>Instead, from the &lt;g1&gt;Project&lt;/g1&gt; menu, select &lt;g2&gt;Create translated documents&lt;/g2&gt; to generate the translated version of all files in the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Este es el último fichero, y ya está traducido.</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20210502T202323Z" creationid="souto" creationdate="20210502T202323Z">
+        <seg>This is the last file, and it is already translated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Este segmento está pretraducido pero no puedes editar la traducción, y si no me crees, edítala y luego pulsa F5 en tu teclado.</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20210430T103806Z" creationid="souto" creationdate="20210430T103806Z">
+        <seg>This segment is pre-translated but you can't edit the translation, and if you don't believe me, try it out and them press F5 on your keyboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="es">
+        <seg>Este segmento está pretraducido pero puedes editar la traducción si ves algún error.</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20210430T103806Z" creationid="souto" creationdate="20210430T103806Z">
+        <seg>This segment is pre-translated but you can edit the tranlsation if there's any error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>O sea, para asegurarte de que todos los ficheros traducidos incluyen cualquier cambio que hayas podido hacer en el proyecto desde la última vez que los creaste.</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20210502T201957Z" creationid="souto" creationdate="20210502T201957Z">
+        <seg>In other words, to make sure that all the translated files include any changes that you may have made to the project since the last time you created them. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Otra manera de comprobarlo es pulsar &lt;g1&gt;Ctrl + U&lt;/g1&gt;: si te desplazas a otro segmento, quiere decir que quedan cosas por traducir.</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20210502T202425Z" creationid="souto" creationdate="20210502T202342Z">
+        <seg>Another way to check is to press &lt;g1&gt;Ctrl + U&lt;/g1&gt;: if you move to another segment, it means that there are things to translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Una vez que la traducción esté finalizada, puedes entregar.</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20210502T202437Z" creationid="souto" creationdate="20210502T202437Z">
+        <seg>Once the translation is complete, you can deliver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Y, de nuevo, en realidad no necesitabas usar el ratón para generar todos los ficheiros traducidos: puedes usar el atajo &lt;g1&gt;Ctrl + D&lt;/g1&gt; (con "D" de documentos).</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20210502T202009Z" creationid="souto" creationdate="20210502T202009Z">
+        <seg>And again, you didn't actually need to use the mouse to generate all the translated files: you can use the shortcut &lt;g1&gt;Ctrl + D&lt;/g1&gt; (with "D" for documents). </seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

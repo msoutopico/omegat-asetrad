@@ -20,22 +20,17 @@ choco install omegat --pre
 
 ### Versiones
 
-Versión "estándar" y versión "más reciente". >>>
-
+La versión "estándar" es más estable pero puede carecer de muchas mejoras que solo se añaden a la versión "más reciente". No hay una gran diferencia y en principio recomiendo esta última (versio 5.4.4 a mayo de 2021).
 
 ## Optimización y extensiones
 
 Por razones históricas y de modelo de desarrollo, la instalación de OmegaT tiene opciones predefinidas que no siempre son las más convenientes. Sin embargo, cada usuario puede personalizarla según sus preferencias.
 
-Para agilizar esa operación, he preparado un paquete con los ficheros de configuración de usuario con las preferencias que yo recomiendo. Para utilizarlos, debes ir a [https://github.com/msoutopico/omegat-asetrad](https://github.com/msoutopico/omegat-asetrad) > [02_instalacion](https://github.com/msoutopico/omegat-asetrad/tree/main/02_instalacion), y descargar el fichero [`user_config.zip`](https://github.com/msoutopico/omegat-asetrad/raw/main/02_instalacion/user_config.zip).
+Para agilizar esa operación, he preparado un paquete con los ficheros de configuración de usuario con las preferencias que yo recomiendo. Podrás encontrarlo en la carpeta `02_instalacion` de este repositorio bajo el nombre de `user_config.zip`.
 
-Acto seguido, deberás descomprimir los contenidos de ese fichero en la carpeta de configuración de usuario de OmegaT. Puedes llegar a ella de dos maneras:
+Lo más sencillo es descarga este repositorio entero (como se explica en >>>), pero también puedes descargar únicamente el paquete con los ficheros de configuración de [https://github.com/msoutopico/omegat-asetrad](https://github.com/msoutopico/omegat-asetrad) › [02_instalacion](https://github.com/msoutopico/omegat-asetrad/tree/main/02_instalacion) › [`user_config.zip`](https://github.com/msoutopico/omegat-asetrad/raw/main/02_instalacion/user_config.zip).
 
-1. En OmegaT: **Opciones > Preferencias > Acceso a carpeta de configuración**.
-
-2. **Win+R**, abrir: `%appdata%/OmegaT`
-
-El paquete `user_config.zip` que se descarga desde el enlace de arriba incluye varias optimizaciones:
+El paquete `user_config.zip` incluye diversas optimizaciones:
 
 * Configuración
   * Filtros
@@ -52,7 +47,21 @@ El paquete `user_config.zip` que se descarga desde el enlace de arriba incluye v
 * Verificación ortográfica
    * Diccionarios para lenguas españolas
 
-Notas
+Para instalar los ficheros de configuración, procede de la siguiente manera:
+
+1. Abre la carpeta de configuración de usuario. Desde OmegaT: **Opciones › Preferencias › Acceso a carpeta de configuración** (debería ser la misma ruta que se abre con **Win+R**: `%appdata%/OmegaT`).
+
+2. Cierra OmegaT.
+
+3. Acto seguido, descomprime los contenidos del fichero `user_config.zip` en la carpeta de configuración de usuario de OmegaT.
+
+4. Copia la ruta a la carpeta `scripts`.
+
+5. Ejecuta otra vez OmegaT, y ve a **Herramientas** > **Programación** > **Archivo** > **Establecer la carpeta de programas**, y pegar ahí la ruta a la carpeta carpeta `scripts`.
+
+
+
+## Notas
 
 [1] https://community.chocolatey.org/packages/omegat
 

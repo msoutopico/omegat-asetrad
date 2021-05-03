@@ -1,0 +1,10 @@
+2/05/21 22:09
+                    	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	
+Repeticiones:       	       27	     107	                      594	                      679	
+Coincidencia exacta:	        2	      36	                      176	                      210	
+95%-100%:           	        2	      52	                      255	                      308	
+85%-94%:            	        0	       0	                        0	                        0	
+75%-84%:            	        0	       0	                        0	                        0	
+50%-74%:            	        1	      16	                       76	                       90	
+Sin coincidencia:   	      373	    7200	                    36382	                    43290	
+Total:              	      405	    7411	                    37483	                    44577	

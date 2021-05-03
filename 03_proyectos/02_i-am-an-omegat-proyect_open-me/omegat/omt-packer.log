@@ -1,0 +1,25 @@
+------------------------------------
+Packing timestamp: 2021-05-04 01:44:05
+OMT plugin version: null
+User ID: "souto"
+Project name: [C:\Users\souto\Sync\Trainings\omegat-asetrad\03_proyectos\02_i-am-an-omegat-proyect_open-me]
+Package name: [C:\Users\souto\Sync\Trainings\omegat-asetrad\04_paquetes\02_i-am-an-omegat-proyect_open-me.omt]
+createEmptyFile	[dictionary\.empty]
+createEmptyFile	[glossary\.empty]
+addZipDir	file	[omegat\filters.xml]
+addZipDir	file	[omegat\ignored_words.txt]
+addZipDir	file	[omegat\last_entry.properties]
+addZipDir	file	[omegat\learned_words.txt]
+Exclude entry [omegat/omt-packer.log] from regex [omt-packer\.log$]
+addZipDir	file	[omegat\project_save.tmx]
+addZipDir	file	[omegat\project_save.tmx.202105021357.bak]
+addZipDir	file	[omegat\project_stats.txt]
+addZipDir	project	[omegat.project]
+addZipDir	file	[source\file.md]
+Exclude entry [target/ej_trad_06.md] from regex [^target/.+\..+]
+Exclude entry [target/ej_trad_07.docx] from regex [^target/.+\..+]
+Exclude entry [target/ej_trad_07.txt] from regex [^target/.+\..+]
+createEmptyFile	[target\.empty]
+createEmptyFile	[tm\auto\.empty]
+createEmptyFile	[tm\.empty]
+Added 9 files to the Zip.

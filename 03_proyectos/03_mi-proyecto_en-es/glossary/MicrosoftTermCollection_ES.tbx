@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<martif type="TBX" xml:lang="en-US">
+    <martifHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Microsoft Terminology Collection Export</title>
+            </titleStmt>
+            <sourceDesc>
+                <p>Microsoft Terminology Collection</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry id="365_118052">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="118052">switching</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="118053">conmutación</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="1250_1162493">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="1162493">set</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="1188868">conjunto</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="1722_464498">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="464498">unlock</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="510194">desbloquear</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="2649_67737">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="67737">installation</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="67738">instalación</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="3117_109079">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="109079">security</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="109080">seguridad</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="6660_395653">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="395653">lock</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="395808">bloquear</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="7058_150156">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="150156">tab</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="1091577">pestaña</term>
+                        </termGrp>
+                    </ntig>
+                    <ntig>
+                        <termGrp>
+                            <term id="1815405">pestaña</term>
+                        </termGrp>
+                    </ntig>
+                    <ntig>
+                        <termGrp>
+                            <term id="150176">ficha</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="7702_1510294">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="1510294">app</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="1904624">app</term>
+                        </termGrp>
+                    </ntig>
+                    <ntig>
+                        <termGrp>
+                            <term id="95383">aplicación</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="7815_232412">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="232412">private</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="1056756">privado</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="8469_185752">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="185752">Phone</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="185760">Teléfono</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="9073_144243">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="144243">locked</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="144265">bloqueado</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="9159_181817">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="181817">securable</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="394638">protegible</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="10095_339958">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="339958">Private</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="430274">Número privado</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="10188_42237">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="42237">data</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="42238">datos</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="10724_464490">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="464490">lock</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="510146">bloquear</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="12003_395652">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="395652">lock</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="395807">bloquear</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="12958_50552">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="50552">enable</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="50553">habilitar</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="13142_111591">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="111591">setting</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="111592">valor</term>
+                        </termGrp>
+                    </ntig>
+                    <ntig>
+                        <termGrp>
+                            <term id="2145303">ajuste</term>
+                        </termGrp>
+                    </ntig>
+                    <ntig>
+                        <termGrp>
+                            <term id="2145254">configuración</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="13430_534994">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="534994">lock</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="557653">bloqueo</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="14815_761638">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="761638">lock</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="771165">bloquear</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="19472_659788">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="659788">lock</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="1893931">bloquear</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="19528_660057">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="660057">unlock</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="689940">desbloquear</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="21910_780478">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="780478">settings</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="1053585">configuración</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="22613_1050742">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="1050742">unlock</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="1054771">desbloquear</term>
+                        </termGrp>
+                    </ntig>
+                    <ntig>
+                        <termGrp>
+                            <term id="2508108">desbloquear</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="22614_1050743">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="1050743">Unlock</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="1054772">Desbloquear</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="22765_1054898">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="1054898">set</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="1056449">conjunto</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="23395_1077243">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="1077243">screen</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="1086235">pantalla</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="32012_1630307">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="1630307">private</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="1638207">en privado</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="32088_1636208">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="1636208">unlock</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="1815443">desbloquear</term>
+                        </termGrp>
+                    </ntig>
+                    <ntig>
+                        <termGrp>
+                            <term id="1638419">desbloquear</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="34325_1991435">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="1991435">unlock</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2304488">desbloquear</term>
+                        </termGrp>
+                    </ntig>
+                    <ntig>
+                        <termGrp>
+                            <term id="2305196">desbloquear</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="34454_1991564">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="1991564">settings</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2304460">configuración</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="34473_1992940">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="1992940">app</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2304270">aplicación</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="34679_1998716">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="1998716">settings</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2001772">configuración</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="36827_2078800">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="2078800">screen</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2104764">pantalla</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="37279_2114079">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="2114079">Security</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2118611">Seguridad</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="37854_2164319">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="2164319">Phone</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2166406">Teléfono</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="38035_2175617">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="2175617">Phones</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2179896">Teléfonos</term>
+                        </termGrp>
+                    </ntig>
+                    <ntig>
+                        <termGrp>
+                            <term id="2183697">Teléfonos</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="38702_2254374">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="2254374">lockdown</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2255742">bloqueo</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="43061_2439289">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="2439289">Sets</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2442484">Conjuntos</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="43066_2440378">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="2440378">set</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2442483">conjunto</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="46354_2612186">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="2612186">set</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2612389">conjunto</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="46971_2646639">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="2646639">lock</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2648610">bloquear</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="47796_2690768">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="2690768">Security</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2691765">Seguridad</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="47920_2700296">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="2700296">unlock</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2700440">desbloquear</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="47921_2700297">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="2700297">secure</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2700436">seguro</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="50488_2857882">
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term id="2857882">APP</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+                <langSet xml:lang="es-ES">
+                    <ntig>
+                        <termGrp>
+                            <term id="2860391">APP</term>
+                        </termGrp>
+                    </ntig>
+                    <ntig>
+                        <termGrp>
+                            <term id="2859927">APP</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

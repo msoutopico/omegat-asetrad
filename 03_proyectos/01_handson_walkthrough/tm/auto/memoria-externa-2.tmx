@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="es"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="es">
+        <seg>Este segmento está pretraducido pero puedes editar la traducción si ves algún error.</seg>
+      </tuv>
+      <tuv xml:lang="en" changeid="souto" changedate="20210430T103806Z" creationid="souto" creationdate="20210430T103806Z">
+        <seg>This segment is pre-translated but you can edit the tranlsation if there's any error.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

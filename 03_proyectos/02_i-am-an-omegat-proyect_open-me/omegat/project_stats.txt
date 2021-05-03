@@ -1,0 +1,14 @@
+4/05/21 1:44
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	        2	      21	                       98	                      117	        1	
+Pendientes:       	        2	      21	                       98	                      117	        1	
+Únicos:           	        2	      21	                       98	                      117	        1	
+Pendientes únicos:	        2	      21	                       98	                      117	        1	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+file.md          	                 2	                   2	               2	                          2	            21	                 21	             21	                        21	                             98	                                  98	                              98	                                         98	                            117	                                 117	                             117	                                        117	

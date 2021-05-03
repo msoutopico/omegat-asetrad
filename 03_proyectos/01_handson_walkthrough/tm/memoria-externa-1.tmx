@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="es"/>
+  <body>
+    <tu>
+      <tuv lang="es">
+        <seg>Puedes aprender de una buena explicación</seg>
+      </tuv>
+      <tuv lang="en">
+        <seg>You can learn from a good explanation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Aprenderás mucho más si lo haces tú mismo/a.</seg>
+      </tuv>
+      <tuv lang="en">
+        <seg>You will learn much more if you do it yourself.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

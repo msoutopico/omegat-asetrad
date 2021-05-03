@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Important: Some of these steps work only on Android 9 and up.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210503T223353Z" creationid="souto" creationdate="20210503T223353Z">
+        <seg>Importante: algunos de estos pasos solo funcionan en Android 9 y versiones posteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It takes some extra steps whenever you need to use your phone, but you’re turning your device into a security hazard by not locking it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210503T223540Z" creationid="souto" creationdate="20210503T223540Z">
+        <seg>Se necesitan algunos pasos adicionales siempre que necesite usar su teléfono, pero estás convirtiendo tu dispositivo en un peligro para la seguridad al no bloquearlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It takes some extra steps whenever you need to use your phone.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210503T222610Z" creationid="souto" creationdate="20210503T222610Z">
+        <seg>Se necesitan algunos pasos adicionales siempre que necesite usar su teléfono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Translate as per the style guide.</note>
+      <tuv lang="en">
+        <seg>Lock settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Lockit adds security to your phone access.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210503T213452Z" creationid="cristophe" creationdate="20210403T213452Z">
+        <seg>Lockit agrega seguridad al acceso a su teléfono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You’re turning your device into a security hazard by not locking it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210503T222614Z" creationid="souto" creationdate="20210503T222614Z">
+        <seg>Estás convirtiendo tu dispositivo en un peligro para la seguridad al no bloquearlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>La celda generalmente es amarilla.</note>
+      <tuv lang="en">
+        <seg>write it in the yellow cell</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

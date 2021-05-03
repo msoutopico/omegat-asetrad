@@ -1,0 +1,32 @@
+barra de estado	status bar
+confirmar	commit
+grupo de repeticiones	group of repetitions
+concidencia exacta	exact match	Similitud del 100%
+memoria interna	internal memory	or working memory
+memoria de traducción	translation memory	abreviatura: TM
+glosario	glossary
+
+término	term
+en efecto	indeed
+actualizado	up to date
+evitar	avoid
+errores tipográficos	typing errors
+traducir	translate
+en consonancia con	according to
+preferencias de estilo	style preferences
+cliente	customer
+glosario validado	validated glossary
+ahorrar tiempo	save time
+términos sintagmáticos muy largos	long syntagmatic expression
+terminología y fraseología legal	legal terminology and phraseology
+importante	importante
+equivalencia dinámica intersistémica	intersystemic dynamic equivalence
+mejorar	improve
+control de calidad	quality checks
+qué se yo	(you get the point)
+útil	helpful
+ayuda	help
+coincidencia exacta	exact match
+autocompletar	auto-complete
+atajo	shortcut
+Más vale prevenir que curar	One stitch in time saves nine

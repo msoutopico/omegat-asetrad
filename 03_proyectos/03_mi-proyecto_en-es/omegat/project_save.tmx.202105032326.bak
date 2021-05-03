@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <note>Translate as per the style guide.</note>
+      <tuv lang="en">
+        <seg>Lock settings</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210503T212547Z" creationid="souto" creationdate="20210503T000532Z">
+        <seg>Ajutes de bloqueo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lock settings on Android phone</seg>
+      </tuv>
+      <tuv lang="es" changeid="christophe" changedate="20210503T182110Z" creationid="christophe" creationdate="20210503T182110Z">
+        <seg>Bloquear ajustes en un teléfono Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To lock Android settings is easy.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210503T000609Z" creationid="souto" creationdate="20210503T000609Z">
+        <seg>Bloquear los ajuntos de Android es fácil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>La celda generalmente es amarilla.</note>
+      <tuv lang="en">
+        <seg>write it in the yellow cell</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
