@@ -1,4 +1,4 @@
-# = Repeticiones y autopropagación =
+# Repeticiones y autopropagación
 
 Recuerda que para avanzar en el proyecto puedes confirmar cada segmento mediante la tecla **Intro** después de traducirlo.
 
@@ -26,7 +26,7 @@ Vuelve al segmento anterior y haz clic derecho en él: verás que al lado de su 
 
 Traduce esta frase.
 
-# = Traducciones alternativas (canapé) =
+# Traducciones alternativas (aviso)
 
 La consistencia interna está muy bien, te va ahorrar mucho trabajo y va a mejorar la calidad de tus traducciones.
 

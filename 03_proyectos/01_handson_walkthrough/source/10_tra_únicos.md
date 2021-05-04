@@ -1,4 +1,4 @@
-# = Para concentrarse en la traducción =
+# Para concentrarse en la traducción
 
 Traduce esta otra frase.
 

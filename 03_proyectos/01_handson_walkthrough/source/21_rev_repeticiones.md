@@ -1,4 +1,4 @@
-# = Repeticiones y autopropagación =
+# Repeticiones y autopropagación
 
 Vamos a retomar el importante tema de las repeticiones. De nuevo: ¡presta mucha atención!
 

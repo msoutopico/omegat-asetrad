@@ -1,6 +1,6 @@
-# = Segmentos no traducidos =
+# Segmentos no traducidos
 
-En el ejercicio número 4, habrás podido observar que el documento traducido incluye el texto original (en la lengua de partida) en aquellas partes donde hay segmentos sin traducir. Por ejemplo en todos los segmentos que siguen al segmento activo (o sea, todos los segmentos que ves con fondo lila), si has ido traduciendo en orden secuencial.
+En el ejercicio número 6 (sobre exportar), habrás podido observar que el documento traducido incluye el texto original (en la lengua de partida) en aquellas partes donde hay segmentos sin traducir. Por ejemplo en todos los segmentos que siguen al segmento activo (o sea, todos los segmentos que ves con fondo lila), si has ido traduciendo en orden secuencial.
 
 O sea, el segmento de debajo y todos los siguientes (excepto repeticiones).
 

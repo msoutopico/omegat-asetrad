@@ -1,4 +1,4 @@
-# = Abrir, cerrar y reabrir proyecto =
+# Abrir, cerrar y reabrir proyecto
 
 Antes de nada más querría explicarte algo para que puedas hacer pausas a lo largo de estos ejercicios.
 
@@ -14,7 +14,7 @@ En cualquiera de los dos casos, para continuar traduciendo, deberás volver a ab
 
 Vale, ahora prueba a cerrar este proyecto y luego reabrirlo.
 
-Ahora prueba a abrir el otro proyecto que está en la carpeta `03_proyectos`.
+Ahora prueba a abrir el otro proyecto que está en la carpeta `03_proyectos`, que se llama `02_i-am-an-omegat-proyect_open-me`. 
 
 Ya estás aquí otra vez :)
 

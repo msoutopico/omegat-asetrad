@@ -1,10 +1,10 @@
-# = Archivos del proyecto =
+# Archivos del proyecto
 
 Hasta ahora nos hemos centrado en el editor y en el texto, segmento por segmento, así que vamos a despegar la vista por un momento para ver el proyecto en su conjunto y ver, concremente, qué archivos tenemos para traducir.
 
-Pulsa **Ctrl + L** para lanzar la segunda ventana y luego pulsa **Escape**. Esa segunda ventana muestra la lista de ficheros que hay en el proyecto, así como el filtro que OmegaT usa para "abrirlos" y el número de segmentos que contiene cada uno.
+Pulsa **Ctrl + L** para lanzar la segunda ventana y luego pulsa **Escape**. Esa segunda ventana muestra la lista de ficheros que hay en el proyecto, así como el filtro que OmegaT usa para «abrirlos» y el número de segmentos que contiene cada uno.
 
-Puedes alternar entre esa segunda ventana y esta ventana principal con el razón (haciendo clic en una o en otra) o con el atajo de teclado **Alt + Tab**.
+Puedes alternar entre esa segunda ventana y esta ventana principal con el ratón (haciendo clic en una o en otra) o con el atajo de teclado **Alt + Tab**.
 
 Vuelve a abrir la ventana de archivos del proyecto, y fíjate que el fichero actual (`07_tra_archivos.md`) está marcado en azul. Es el mismo nombre de fichero que puedes ver en la cabecera del editor.
 

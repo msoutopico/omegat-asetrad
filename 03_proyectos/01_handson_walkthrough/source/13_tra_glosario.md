@@ -1,6 +1,6 @@
-# = Glosario =
+# Glosario
 
-Te habrás fijado en que en algunos segmentos había palabras subrayadas en azul, como por ejemplo en los segmentos #1, #2, #66 o #114. Eran términos que están en el glosario... como los términos «término» y «glosario» y su correspondiente equivalencia: fíjate en cómo aparecen en el panel de **Glosario** a la derecha.
+Te habrás fijado en que en algunos segmentos había palabras subrayadas en azul, como por ejemplo en los segmentos #1, #2, #83 o #131. Eran términos que están en el glosario... como los términos «término» y «glosario» y su correspondiente equivalencia: fíjate en cómo aparecen en el panel de **Glosario** a la derecha.
 
 Bien, por si no sabes inglés, te voy a dar una ayuda para que traduzcas el segmento siguiente (sí, a inglés): cuando estés en el segmento siguiente, muy despacio, escribe «The g» (sin las comillas) y en ese punto párate y observa (y luego, pulsa **Intro**).
 
@@ -8,7 +8,7 @@ El glosario es muy útil.
 
 No importa cómo hayas traducido el resto de la frase en el segmento anterior, lo que importa es que hayas visto que has introducido el término de llegada que estaba en el glosario.
 
-Si no ha funcionado, vuelve al segmento #187 e inténtalo de nuevo: borra el texto y vuelve a traducirlo despacio (la traducción completa sería «The glossary is very useful», pero escríbela tú).
+Si no ha funcionado, vuelve al segmento #214 e inténtalo de nuevo: borra el texto y vuelve a traducirlo despacio (la traducción completa sería «The glossary is very useful», pero escríbela tú).
 
 OmegaT usa texto predictivo para mostrarte sugerencias de traducción de un determinado término cuando empiezas a escribir (cuando tecleas las primeras letras de) la traducción del término en cuestión, p. ej. «glossary».
 
@@ -16,7 +16,7 @@ Espero que haya funcionado, ahora traduce de verdad (y sin mi ayuda) el segmento
 
 En efecto, un glosario actualizado te ayuda a evitar errores tipográficos, a traducir en consonancia con las preferencias de estilo del cliente, a ahorrar tiempo si hay términos sintagmáticos muy largos o terminología y fraseología legal, a mejorar el control de calidad, o qué se yo!
 
-Como ves, para traducir el segmento #199 has tenido que escribir muy poco gracias al glosario y al texto predictivo.
+Como ves, para traducir el segmento anterior has tenido que escribir muy poco gracias al glosario y al texto predictivo.
 
 El glosario es útil para traducir terminología y fraseología frecuente o términos importantes (que hay que traducir de una forma específica y no otra -- lo cual es habitual con la terminología especializada). Por otro lado, cuanto más terminológicamente denso sea el texto, más útil será el glosario.
 

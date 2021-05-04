@@ -20,7 +20,7 @@ choco install omegat --pre
 
 ### Versiones
 
-La versión "estándar" es más estable pero puede carecer de muchas mejoras que solo se añaden a la versión "más reciente". No hay una gran diferencia y en principio recomiendo esta última (versio 5.4.4 a mayo de 2021).
+La versión «estándar» es más estable pero puede carecer de muchas mejoras que solo se añaden a la versión "más reciente". No hay una gran diferencia y en principio recomiendo esta última (versio 5.4.4 a mayo de 2021).
 
 ## Optimización y extensiones
 
@@ -49,7 +49,7 @@ El paquete `user_config.zip` incluye diversas optimizaciones:
 
 Para instalar los ficheros de configuración, procede de la siguiente manera:
 
-1. Abre la carpeta de configuración de usuario. Desde OmegaT: **Opciones › Preferencias › Acceso a carpeta de configuración** (debería ser la misma ruta que se abre con **Win+R**: `%appdata%/OmegaT`).
+1. Abre la carpeta de configuración de usuario. Desde OmegaT: **Opciones › Preferencias › Acceso a carpeta de configuración** (debería ser la misma ruta que se abre con **Win + R**: `%appdata%/OmegaT`).
 
 2. Cierra OmegaT.
 

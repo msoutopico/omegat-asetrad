@@ -1,6 +1,6 @@
-# = Opciones de edición =
+# Opciones de edición
 
-No quisiera avanzar más sin antes explicarte cómo "deshacer" la última acción. Fácil: usa el atajo de teclado **Ctrl + Z**, que es un atajo estándar usado en muchas aplicaciones. Para "rehacer" una acción que acabas de deshacer, pulsa **Ctrl + Y**.
+No quisiera avanzar más sin antes explicarte cómo «deshacer» la última acción. Fácil: usa el atajo de teclado **Ctrl + Z**, que es un atajo estándar usado en muchas aplicaciones. Para «rehacer» una acción que acabas de deshacer, pulsa **Ctrl + Y**.
 
 Prueba los dos atajos en la traducción de este segmento.
 

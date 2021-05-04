@@ -1,4 +1,4 @@
-# = Crear documentos traducidos =
+# Crear documentos traducidos
 
 Ahora que ya sabes cómo traducir un proyecto en OmegaT (al menos lo básico), vamos a ver cómo generar el fichero traducido que deberás entregar a tu cliente o a quien vaya a utilizar tu traducción.
 
@@ -29,7 +29,7 @@ Observa que las dos versiones tienen el mismo nombre, dado que OmegaT no cambia 
 
 
 
-Consejo práctico: Es muy útil recordar los atajos de teclado más frecuentes, te ahorrará tiempo. Si no la tienes, pídele a tu profesor una chuleta con todos los atajos de teclado más usados (o más útiles).
+Consejo práctico: Es muy útil recordar los atajos de teclado más frecuentes, te ahorrará tiempo. Puedes consultar la chuleta con todos los atajos de teclado más usados (o más útiles) en el fichero `05_chuleta/atajos.md` o buscar la función en los menúes.
 
 
 Si has ido generando varios documentos y tienes muchos documentos en la carpeta de archivos, te ayudará saber cuál es el actual (el que quieres abrir en cada momento). Puedes ver el nombre del documento actual en la cabecera del editor de traducción (a la derecha de **Edición -**), justo debajo de la barra de menús.

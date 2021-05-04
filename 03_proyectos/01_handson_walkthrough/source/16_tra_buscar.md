@@ -1,4 +1,4 @@
-# = Buscar =
+# Buscar
 
 Que no te de la impresion de que los temas que han ido quedando para el final son menos importantes. Este tema es muy importante, pero también muy fácil.
 

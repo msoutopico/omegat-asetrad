@@ -6,10 +6,10 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="es">
-        <seg>= Entrega =</seg>
+        <seg>Entrega</seg>
       </tuv>
       <tuv lang="en" changeid="souto" changedate="20210502T202047Z" creationid="souto" creationdate="20210502T202047Z">
-        <seg>= Delivery = </seg>
+        <seg>Delivery</seg>
       </tuv>
     </tu>
     <tu>

@@ -1,8 +1,8 @@
-# = Etiquetas =
+# Etiquetas
 
 Te habrás fijado que en algunos segmentos contenían algún texto en rojo. Son lo que llamamos etiquetas. Por ejemplo, en los segmentos #1, #2 y #4: visita cualquiera de ellos, abre el archivo original desde la carpeta `source` en Typora (u otro editor de markdown), y observa el texto que corresponde a esos tres segmentos (al principio del documento) y en particular a esas palabras con etiquetas.
 
-(Si no tienes Typora instalado o tienes cualquier problema para previsualizar el fichero de markdown, también puedes ir al segmento #177 en el fichero de Word `10_tra_vacíos.docx`).
+(Si no tienes Typora instalado o tienes cualquier problema para previsualizar el fichero de markdown, también puedes ir al segmento #149 en el fichero de Word `10_tra_vacíos.docx`).
 
 **Intro**, **Opciones** o **Establecer traducción vacía** están destacadas en el documento original porque son elementos de la interfaz (tecla, menú, opción, botón, etc). La manera que tiene OmegaT de representar el formato de texto (la negrita o cualquier otro formato) es mediante etiquetas.
 
@@ -14,7 +14,7 @@ Cuando llegues al segmento siguiente, tradúcelo (de verdad), selecciona la trad
 
 Traduce este segmento y usa la función de **autocompletar** para insertar las etiquetas.
 
-La entrada seleccionada era algo como `|`, que es el par de etiquetas que has insertado alrededor de la palabra con formato. Ahora, cuando exportes el archivo traducido, deberá tener el mismo formato que tiene la palabra en el documento original. Puedes probarlo también en el segmento #177, si prefieres verlo en acción en un documento de Word.
+La entrada seleccionada era algo como `|`, que es el par de etiquetas que has insertado alrededor de la palabra con formato. Ahora, cuando exportes el archivo traducido, deberá tener el mismo formato que tiene la palabra en el documento original. Puedes probarlo también en el segmento #149, si prefieres verlo en acción en un documento de Word.
 
 Por si no lo ves claro, te he hecho un loco gif: http://g.recordit.co/BVInO6iWfc.gif
 

@@ -1,4 +1,4 @@
-# = Controles de calidad =
+# Controles de calidad
 
 Llegamos casi al final, y ya casi tienes el proyecto listo para hacer la entrega: has traducido todos los segmentos y has hecho una relectura estupenda. Sin embargo, hay errores que el ojo humano a veces no ve, y para eso los controles automáticos de calidad son muy útiles.
 

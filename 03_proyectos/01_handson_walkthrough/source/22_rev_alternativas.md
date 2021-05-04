@@ -1,4 +1,4 @@
-# = Traducciones alternativas =
+# Traducciones alternativas
 
 Seguimos con el apasionante tema de las repeticiones.
 
@@ -18,7 +18,7 @@ Estos son los pasos para crear una traducción alternativa:
 
 ¿Lo tenemos? Pues a probarlo.
 
-De los tres segmentos siguientes, cambia únicamente la traducción del segmento del medio (el segundo, número #368):
+De los tres segmentos siguientes, cambia únicamente la traducción del segmento del medio (el segundo, número #372):
 
 Traduce esta otra frase.
 Traduce esta otra frase.
@@ -34,6 +34,6 @@ Me doy cuenta de que el ejemplo anterior es artificial y no hay nada ahí que ha
 
 Vale, un ejemplo chorra para usar una frase que claramente requiere dos traducciones diferentes, pero sirve, no?
 
-Te resumo los pasos para que los pruebes en el segmento #376: 1 crear traducción alternativa (con clic derecho), 2 modificar la traducción y 3 guardar.
+Te resumo los pasos para que los pruebes en el segmento #379: 1 crear traducción alternativa (con clic derecho), 2 modificar la traducción y 3 guardar.
 
 No es un tema difícil, pero a veces no se explica bien o no se entiende bien, y el resultado puede ser fatal. Si conseguimos que quede perfectamente claro aquí, te ahorrarás problemas después. Más vale prevenir que curar.
