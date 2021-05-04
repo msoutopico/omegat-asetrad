@@ -1,1 +1,4 @@
 guion.md
+*.bak
+*project_stats.txt
+last_entry.properties
