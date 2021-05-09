@@ -1,0 +1,14 @@
+<xliff version="1.2">
+ <file original="sample.pdf" source-language="en-US" target-language="es-ES" datatype="x-undefined">
+  <body>
+   <trans-unit id="1">
+    <source xml:lang="en-US">Hello!</source>
+    <target xml:lang="es-ES"/>
+   </trans-unit>
+   <trans-unit id="2">
+    <source xml:lang="en-US">How are you?</source>
+    <target xml:lang="es-ES"/>
+   </trans-unit>
+  </body>
+ </file>
+</xliff>

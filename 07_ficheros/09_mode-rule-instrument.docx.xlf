@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<file source-language="en" original="C:\Users\souto\Sync\Trainings\omegat-asetrad\07_ficheros\mode-rule-instrument.docx" target-language="es" datatype="x-office" tool-id="OpenXLIFF">
+    <header>
+      <skl>
+        <external-file href="C:\Users\souto\AppData\Roaming\XLIFF Manager\skl\mode-rule-instrument.docx251980247023081685.skl"/>
+      </skl>
+      <tool tool-version="1.12.6 20210505_1328" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+      <prop-group name="document">
+        <prop prop-type="original">word/document.xml</prop>
+      </prop-group>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit xml:space="preserve" id="0">
+        <source>If a mode of data collection is not listed, please:</source>
+    </trans-unit>
+      <trans-unit xml:space="preserve" id="1">
+        <source>drop a message to the national coordinator</source>
+    </trans-unit>
+      <trans-unit xml:space="preserve" id="2">
+        <source>write it in the yellow cell</source>
+    </trans-unit>
+      <trans-unit xml:space="preserve" id="3">
+        <source>give additional information if necessary</source>
+    </trans-unit>
+      <trans-unit xml:space="preserve" id="4">
+        <source>If another rule is used, please:</source>
+    </trans-unit>
+      <trans-unit xml:space="preserve" id="5">
+        <source>drop a message to the national coordinator</source>
+    </trans-unit>
+      <trans-unit xml:space="preserve" id="6">
+        <source>write it in the yellow cell</source>
+    </trans-unit>
+      <trans-unit xml:space="preserve" id="7">
+        <source>explain in the metadata</source>
+    </trans-unit>
+      <trans-unit xml:space="preserve" id="8">
+        <source>If any another instrument is used, please:</source>
+    </trans-unit>
+      <trans-unit xml:space="preserve" id="9">
+        <source>drop a message to the national coordinator</source>
+    </trans-unit>
+      <trans-unit xml:space="preserve" id="10">
+        <source>write it in the yellow cell</source>
+    </trans-unit>
+      <trans-unit xml:space="preserve" id="11">
+        <source>explain in the metadata</source>
+    </trans-unit>
+    </body>
+  </file>
+</xliff>

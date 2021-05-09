@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180219Z" creationid="souto" creationdate="20210509T180219Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180226Z" creationid="souto" creationdate="20210509T180226Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A warning with consequences for continued behavior.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180221Z" creationid="souto" creationdate="20210509T180221Z">
+        <seg>Una advertencia con consecuencias por comportamiento continuo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All community leaders are obligated to respect the privacy and security of the reporter of any incident.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180218Z" creationid="souto" creationdate="20210509T180218Z">
+        <seg>Todos los líderes comunitarios están obligados a respetar la privacidad y seguridad del informante de cualquier incidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All complaints will be reviewed and investigated promptly and fairly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180217Z" creationid="souto" creationdate="20210509T180217Z">
+        <seg>Todas las quejas serán revisadas e investigadas con prontitud y de manera justa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contributor Covenant Code of Behavior</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180213Z" creationid="souto" creationdate="20210509T180213Z">
+        <seg>Código de conducta del pacto del colaborador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180216Z" creationid="souto" creationdate="20210509T180216Z">
+        <seg>Ejemplos de representación de nuestra comunidad incluyen el uso de una dirección de correo electrónico oficial, la publicación a través de una cuenta oficial de redes sociales o la actuación como representante designado en un evento en línea o fuera de línea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at opensource@github.com.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180217Z" creationid="souto" creationdate="20210509T180217Z">
+        <seg>Los casos de comportamiento abusivo, acosador o inaceptable de cualquier otro modo se pueden informar a los líderes comunitarios responsables de la aplicación en opensource@github.com.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Behavior, for a specified period of time.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180239Z" creationid="souto" creationdate="20210509T180222Z">
+        <seg>Ninguna interacción con las personas involucradas, incluida la interacción no solicitada con quienes hacen cumplir el Código de Comportamiento, durante un período de tiempo específico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180016Z" creationid="souto" creationdate="20210509T174212Z">
+        <seg>No se permite ninguna interacción pública o privada con las personas involucradas, incluida la interacción no solicitada con quienes hacen cumplir el Código de Comportamiento, durante este período.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope and enforcement</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180214Z" creationid="souto" creationdate="20210509T180214Z">
+        <seg>Alcance y ejecución</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This Code of Behavior applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180239Z" creationid="souto" creationdate="20210509T180215Z">
+        <seg>Este Código de Comportamiento se aplica en todos los espacios comunitarios y también se aplica cuando una persona representa oficialmente a la comunidad en los espacios públicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This includes avoiding interactions in community spaces as well as external channels like social media.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180223Z" creationid="souto" creationdate="20210509T180223Z">
+        <seg>Esto incluye evitar interacciones en espacios comunitarios y canales externos como las redes sociales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Violating these terms may lead to a temporary ban.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180225Z" creationid="souto" creationdate="20210509T180225Z">
+        <seg>La violación de estos términos puede dar lugar a una prohibición temporal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180219Z" creationid="souto" creationdate="20210509T180219Z">
+        <seg>Advertencia</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

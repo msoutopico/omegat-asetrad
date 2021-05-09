@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Arab World</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171803Z" creationid="souto" creationdate="20210509T171803Z">
+        <seg>Mundo árabe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Caribbean small states</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171805Z" creationid="souto" creationdate="20210509T171805Z">
+        <seg>Pequeños estados del Caribe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Central Europe and the Baltics</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171807Z" creationid="souto" creationdate="20210509T171807Z">
+        <seg>Europa central y los países bálticos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Country</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171710Z" creationid="souto" creationdate="20210509T171710Z">
+        <seg>País</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>East Asia &amp; Pacific</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171809Z" creationid="souto" creationdate="20210509T171809Z">
+        <seg>Asia oriental y Pacífico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>East Asia &amp; Pacific (excluding high income)</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171811Z" creationid="souto" creationdate="20210509T171811Z">
+        <seg>Asia oriental y el Pacífico (excluidos los ingresos altos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Euro area</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171814Z" creationid="souto" creationdate="20210509T171814Z">
+        <seg>Zona euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Europe &amp; Central Asia</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T173049Z" creationid="souto" creationdate="20210509T171859Z">
+        <seg>Europa y Asia central</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Europe &amp; Central Asia (excluding high income)</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171901Z" creationid="souto" creationdate="20210509T171901Z">
+        <seg>Europa y Asia central (excluidos los ingresos altos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>European Union</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171903Z" creationid="souto" creationdate="20210509T171903Z">
+        <seg>Unión Europea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fragile and conflict affected situations</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171904Z" creationid="souto" creationdate="20210509T171904Z">
+        <seg>Situaciones frágiles y afectadas por conflictos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Heavily indebted poor countries (HIPC)</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171906Z" creationid="souto" creationdate="20210509T171906Z">
+        <seg>Países pobres muy endeudados (PPME)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>High income</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171932Z" creationid="souto" creationdate="20210509T171932Z">
+        <seg>Altos ingresos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Latin America &amp; Caribbean</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171908Z" creationid="souto" creationdate="20210509T171908Z">
+        <seg>América Latina y el Caribe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Latin America &amp; Caribbean (excluding high income)</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171909Z" creationid="souto" creationdate="20210509T171909Z">
+        <seg>América Latina y el Caribe (excluyendo altos ingresos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Least developed countries: UN classification</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171911Z" creationid="souto" creationdate="20210509T171911Z">
+        <seg>Países menos desarrollados: clasificación de la ONU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Low &amp; middle income</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171934Z" creationid="souto" creationdate="20210509T171934Z">
+        <seg>Ingresos medios y bajos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Low income</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171936Z" creationid="souto" creationdate="20210509T171936Z">
+        <seg>De bajos ingresos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lower middle income</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171938Z" creationid="souto" creationdate="20210509T171938Z">
+        <seg>Ingresos medianos bajos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Middle East &amp; North Africa</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171913Z" creationid="souto" creationdate="20210509T171913Z">
+        <seg>Medio Oriente y África del Norte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Middle East &amp; North Africa (excluding high income)</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171915Z" creationid="souto" creationdate="20210509T171915Z">
+        <seg>Medio Oriente y África del Norte (excluidos los ingresos altos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Middle income</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171954Z" creationid="souto" creationdate="20210509T171954Z">
+        <seg>Ingreso medio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most Recent Value (Thousands)</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T173032Z" creationid="souto" creationdate="20210509T171712Z">
+        <seg>Valor más reciente (Miles)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>North America</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171917Z" creationid="souto" creationdate="20210509T171917Z">
+        <seg>América del norte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OECD members</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171919Z" creationid="souto" creationdate="20210509T171919Z">
+        <seg>Miembros de la OCDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other small states</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171921Z" creationid="souto" creationdate="20210509T171921Z">
+        <seg>Otros estados pequeños</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pacific island small states</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171922Z" creationid="souto" creationdate="20210509T171922Z">
+        <seg>Estados pequeños de las islas del Pacífico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Small states</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171924Z" creationid="souto" creationdate="20210509T171924Z">
+        <seg>Estados pequeños</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>South Asia</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171926Z" creationid="souto" creationdate="20210509T171926Z">
+        <seg>Asia del Sur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sub-Saharan Africa</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171953Z" creationid="souto" creationdate="20210509T171953Z">
+        <seg>Africa Sub-sahariana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sub-Saharan Africa (excluding high income)</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171930Z" creationid="souto" creationdate="20210509T171930Z">
+        <seg>África subsahariana (excluidos los ingresos altos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upper middle income</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171955Z" creationid="souto" creationdate="20210509T171955Z">
+        <seg>Ingresos medianos altos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>World</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T171728Z" creationid="souto" creationdate="20210509T171728Z">
+        <seg>Mundial</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

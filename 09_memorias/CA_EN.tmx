@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+
+    <tu>
+      <tuv lang="en">
+        <seg>Extra validation is performed for XLIFF 2.0 Core and for Metadata, Matches and Glossary modules.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="souto" changedate="20210509T145526Z" creationid="souto" creationdate="20210509T145526Z">
+        <seg>Este texto puede ser una traducción en otro idioma, una versión anterior (de referencia) o una nota: "Mantén las mayúsculas en la traducción de los módulos".</seg>
+      </tuv>
+    </tu>
+
+    <tu>
+      <tuv lang="en">
+        <seg>Standard XML Schema validation does not detect the use of duplicated 'id' attributes, wrong language codes and other constraints written in the different XLIFF specifications.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="souto" changedate="20210509T145452Z" creationid="souto" creationdate="20210509T145452Z">
+        <seg>Validació de Diagrama de XML estàndard no detecta l'ús de duplicat 'id' atributs, codis de llengua incorrecta i altres restriccions escrites dins el diferent XLIFF especificacions.</seg>
+      </tuv>
+    </tu>
+
+<!-- Alternative translations -->
+  </body>
+</tmx>

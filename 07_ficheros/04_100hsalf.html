@@ -1,0 +1,39 @@
+<!doctype html><html lang='en-US'>
+  <head>
+    <meta charset='UTF-8' />
+    <style>
+          body {
+            max-width: 50%;
+            min-width: 600px;
+            margin: auto;
+            padding: 50px;
+          }
+          div.cell {
+            background-color: #CDCDCD;
+            margin: 2px;
+            padding: 5px;
+          }
+    </style>
+  </head>
+  <body>
+
+
+    <div class='cell hide' id='1' translate='no'>English (US)</div>
+    <div class='cell hide' id='2' translate='no'>This text should not be translated.</div>
+    <div class='cell hide' id='3' translate='no'>This text is not for translation.</div>
+    <div class='cell hide' id='4' translate='no'>This text is also out of scope for translation.</div>
+    <div class='cell' id='6' translate='yes'>This text must be translated. It should be extracted for translation. You should see this in the translation editor.</div>
+    <div class='cell' id='7' translate='yes'>Please translate this.</div>
+
+
+    <script type='text/javascript'>
+            /* do not display rows that are hidden in the MRT Excel file */
+            document.querySelectorAll("div.hide").forEach(div => { div.style.display = "none" })
+            /* change directionality if the target language is Arabic (and derivates) or Hebrew */
+            const bodyText = document.body.innerText
+            const regex = /\p{Script=Arabic}|\p{Script=Hebrew}/u
+            const bidiFound = bodyText.match(regex)
+            if (bidiFound) {  document["dir"] = "rtl" }
+    </script>
+  </body>
+</html>

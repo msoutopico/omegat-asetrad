@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>A temporary ban from any sort of interaction or public communication with the community for a specified period of time.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T174211Z" creationid="souto" creationdate="20210509T174211Z">
+        <seg>Prohibición temporal de cualquier tipo de interacción o comunicación pública con la comunidad durante un período de tiempo específico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Behavior, is allowed during this period.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180016Z" creationid="souto" creationdate="20210509T175857Z">
+        <seg>No se permite ninguna interacción pública o privada con las personas involucradas, incluida la interacción no solicitada con quienes hacen cumplir el Código de Comportamiento, durante este período.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T180016Z" creationid="souto" creationdate="20210509T174212Z">
+        <seg>No se permite ninguna interacción pública o privada con las personas involucradas, incluida la interacción no solicitada con quienes hacen cumplir el Código de Comportamiento, durante este período.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Temporary Ban</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T174207Z" creationid="souto" creationdate="20210509T174207Z">
+        <seg>Prohibición temporal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Violating these terms may lead to a permanent ban.</seg>
+      </tuv>
+      <tuv lang="es" changeid="souto" changedate="20210509T174214Z" creationid="souto" creationdate="20210509T174214Z">
+        <seg>La violación de estos términos puede dar lugar a una prohibición permanente.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
